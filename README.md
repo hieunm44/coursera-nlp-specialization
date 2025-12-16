@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-This repository provides solutions for course assignments in the [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing). There are a total of four couses in this specialization:
+Link: https://www.coursera.org/specializations/natural-language-processing
 
 ## Course 1 - Natural Language Processing with Classification and Vector Spaces
 ### Week 1 - Sentiment Analysis with Logistic Regression
@@ -54,5 +54,5 @@ __Assignment__: Transformer Summarizer
 __Assignment__: Question Answering
 
 <div align="center">
-    <img src="NLP Specialization.png" height=600"/>
+    <img src="NLP_Specialization.png" height=600"/>
 </div>
